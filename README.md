@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Recent Software Engineer grad from the Institute of Data @ Virginia Commonwealth University <br/><br>👩🏽‍🏫 Current Software Engineering Teaching Assistant @ Institute of Data <br/><br>📚 Avid reader and book collector<br>
+🎓Recent Software Engineer grad from the Institute of Data @ Virginia Commonwealth University <br/><br>👩🏽‍🏫 Current Software Engineering Teaching Assistant @ Institute of Data <br/><br>👩🏽‍🏫 OR Supply Chain Superevisor @ VCU<br/><br>📚 Avid reader and book collector<br>
 
 
 # 💻 Tech Stack:
